@@ -1,6 +1,6 @@
 # To-Do List Prosjekt
 
-Dette er et enkelt To-Do List-prosjekt laget ved hjelp av HTML, CSS og JavaScript.
+Dette er et To-Do List-prosjekt laget ved hjelp av HTML, CSS og JavaScript.
 
 ## Funksjonalitet
 
@@ -17,7 +17,7 @@ Dette er et enkelt To-Do List-prosjekt laget ved hjelp av HTML, CSS og JavaScrip
 ## Struktur
 
 - `index.html`: Hovedsiden som inneholder strukturen for To-Do List.
-- `styles.css`: Stilark for å style To-Do List-grensesnittet.
+- `styles.css`: Css for å style.
 - `script.js`: JavaScript-fil som håndterer logikken for å legge til, markere som fullført og slette oppgaver.
 
 ## Hvordan kjøre prosjektet
@@ -25,4 +25,4 @@ Dette er et enkelt To-Do List-prosjekt laget ved hjelp av HTML, CSS og JavaScrip
 1. Klone dette repository:
    ```bash
    git clone git@github.com:JabriilOsman/To-Do-List.git
-2: Åpne index.html i nettleseren din.
+2: Åpne index.html i nettleseren din for se prosjektet.
