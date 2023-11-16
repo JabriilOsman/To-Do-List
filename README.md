@@ -25,4 +25,5 @@ Dette er et To-Do List-prosjekt laget ved hjelp av HTML, CSS og JavaScript.
 1. Klone dette repository:
    ```bash
    git clone git@github.com:JabriilOsman/To-Do-List.git
+
 2: Åpne index.html i nettleseren din for se prosjektet.
